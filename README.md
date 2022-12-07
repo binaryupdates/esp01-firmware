@@ -2,7 +2,8 @@
 
 This ESP-01 Firmware from AI-Thinker support AT Command on ESP-01 and ESP-01S Module. 
 
-<b> STEP 1: </b> Connect ESP-01 or ESP-01S Module to Laptop in Programming Mode (Short G0 Pin and GND)</br>
-<b> STEP 2: </b> Use ESP8266 Flasher to upgrade the firmware on ESP-01 Module
-<b> STEP 3: </b> Use Serial terminal program like CoolTerm and Test AT Commands
-<b> STEP 4: </b> Download CoolTerm: https://download.cnet.com/CoolTerm/3000-2094_4-10915882.html
+<b> STEP 1: </b> Connect ESP-01 or ESP-01S Module to Laptop in Programming Mode (Short G0 Pin and GND Pin)</br>
+<b> STEP 2: </b> Use ESP8266 Flasher to upgrade the firmware on ESP-01 Module</br>
+<b> STEP 3: </b> RESET ESP-01 Module before testing AT Commands (Short RST with GND Pin)</br>
+<b> STEP 4: </b> Use Serial terminal program like CoolTerm and Test AT Commands</br>
+<b> Download CoolTerm:</b> https://download.cnet.com/CoolTerm/3000-2094_4-10915882.html</br>
